@@ -113,12 +113,9 @@ padding: 3px;
     padding: 10px;
     margin: 10px;
     box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.3);
-    
   background-color: white;
     border-radius: 10px;
     text-align: center;
-    
-
     background-image: url('fundo.jpg'); /* Caminho da imagem */
     background-size: cover;   /* Faz com que a imagem cubra toda a área */
     background-position: center; /* Centraliza a imagem no elemento */
