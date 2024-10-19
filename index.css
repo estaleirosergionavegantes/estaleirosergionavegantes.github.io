@@ -226,6 +226,16 @@ swiper-slide img {
   max-width: 70%;
 }
 
+.video-container {
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  height: 100vh;         
+  width: 100%;
+  max-width: 290px;        
+  height: auto;         
+}
+
 /* BUTTON*/ 
 
 .button {
